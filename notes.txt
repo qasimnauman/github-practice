@@ -16,6 +16,12 @@ git branch
 
 git push origin <Branch Name>
 
+environment
+
+dev
+staging
+prod
+
 Status - Untracked
 Status - Index Added
 Status - Modified
