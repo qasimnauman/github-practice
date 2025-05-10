@@ -14,6 +14,8 @@ git remote -v
 
 git branch
 
+git checkout -b <branch name>
+
 git push origin <Branch Name>
 
 environment
@@ -25,3 +27,7 @@ prod
 Status - Untracked
 Status - Index Added
 Status - Modified
+
+
+source - dev
+target - dev/mac
