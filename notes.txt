@@ -4,6 +4,18 @@ adding files
 git add .
 git add <filename>
 
+git commit -m "<Message>"
+
+git log
+
+git remote add origin <URL>
+
+git remote -v
+
+git branch
+
+git push origin <Branch Name>
+
 Status - Untracked
-Status - 
-Status - 
+Status - Index Added
+Status - Modified
