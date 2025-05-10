@@ -1,0 +1,9 @@
+to create a new git repo  - git init
+
+adding files
+git add .
+git add <filename>
+
+Status - Untracked
+Status - 
+Status - 
